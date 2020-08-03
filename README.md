@@ -1,7 +1,7 @@
 # Bazaar
 HackGT 2019 Project
 
-Bazaar is a tool to help small businesses grow and organized in the age of online, dialogue-driven sales. 
+Bazaar is a tool to help small businesses grow and get organized in the age of digital dialogue-driven sales. 
 
 Prizes:
 Facebook
